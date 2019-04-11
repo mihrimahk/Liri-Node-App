@@ -29,7 +29,7 @@ var finalSearch = array.join(""); //Search query joined together to form string 
 
 // Inquirer //
 console.log("==============================================");
-console.log("Hi, I'm LIRI! (^_^) \nPlease select one of the following commands to get started.")
+console.log("Hi, I'm LIRI! (^_^) \nPlease select one of the following commands to start!")
 console.log("==============================================");
 
 inquirer.prompt ([
