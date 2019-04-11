@@ -1,0 +1,31 @@
+{
+  "name": "node-spotify-api",
+  "version": "1.0.0",
+  "description": "### Overview",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "i": "^0.3.6",
+    "inquirer": "^6.2.2",
+    "moment": "^2.22.2",
+    "node-spotify-api": "^1.0.7",
+    "npm": "^6.4.1",
+    "request": "^2.88.0",
+    "spotify": "^0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wick7/liri-node-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wick7/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/wick7/liri-node-app#readme"
+}
