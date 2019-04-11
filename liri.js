@@ -156,6 +156,12 @@ function movieThis() {
 
     if (finalSearch === "") {
         finalSearch = "mr+nobody"
+        console.log('\n')
+        console.log("If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/");
+        console.log('\n')
+        console.log("It's on Netflix!");
+        
+
     }
 
     axios.get("http://www.omdbapi.com/?t=" + finalSearch + "&y=&plot=short&apikey=trilogy").then(
