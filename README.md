@@ -24,7 +24,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 2. Navigate to the folder that contains the `liri.js` file. 
 3. LIRI utilizes `inquirer` to prompt the user for input.
 
-![Image of Start](1start.png)
+![Image of Start](https://mihrimahk.github.io/Liri-Node-App//images/1start.png)
 
 Depending on the command you run, the output will vary
 
