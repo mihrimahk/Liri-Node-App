@@ -24,7 +24,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 2. Navigate to the folder that contains the `liri.js` file. 
 3. LIRI utilizes `inquirer` to prompt the user for input.
 
-![Image of Start](https://mihrimahk.github.io/Liri-Node-App//images/1start.png)
+![Image of Start](/images/1start.jpg)
 
 Depending on the command you run, the output will vary
 
@@ -37,11 +37,14 @@ Output:`Please enter your concert name:[concert name here]` -This will output th
    * Venue location
    * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
-![Results] : 
+![concert-this](/images/2concert-this.jpg) 
 
 **Chosen 2**: Run the `spotify-this-song` command
 
 Output: `spotify-this-song [song name here]` - This will output the following information about the song the user enters in the terminal window. If no song is provided then the program will default to “The Sign” by Ace of Base.
+
+![spotify-this-song-empty](/images/3spotify-empty.jpg) 
+![spotify-this-song-input](/images/3spotify-input.jpg) 
 
 
 
@@ -58,18 +61,16 @@ Output: This will output the following information about the movie the user ente
    * Plot of the movie.
    * Actors in the movie.
 
-![Results] : 
+![movie-this-input](/images/4movie-this.jpg) 
+![movie-this-input](/images/4movie-this-empty.jpg) 
 
 **Chosen 4**: Run the `do-what-it-says` command
 
 Output:Using the `fs Node package`, LIRI will take the text inside of random.txt and then use it to call one of LIRI’s commands.
 
-![Results] : 
+![do-what-it-says](/images/5do-what.jpg)
 
 Data Output In addition to logging the data to the terminal, data will also be output and appended to a .txt file called `log.txt`.
-
-![Results] : 
-
 
 
 ## TECHNOLOGIES USED
