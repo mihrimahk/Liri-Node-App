@@ -37,7 +37,7 @@ Output:`Please enter your concert name:[concert name here]` -This will output th
    * Venue location
    * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
-![Results] : See `asciinema rec`
+![Results] : 
 
 **Chosen 2**: Run the `spotify-this-song` command
 
@@ -58,17 +58,17 @@ Output: This will output the following information about the movie the user ente
    * Plot of the movie.
    * Actors in the movie.
 
-![Results] : See `asciinema rec`
+![Results] : 
 
 **Chosen 4**: Run the `do-what-it-says` command
 
 Output:Using the `fs Node package`, LIRI will take the text inside of random.txt and then use it to call one of LIRI’s commands.
 
-![Results] : See `asciinema rec`
+![Results] : 
 
 Data Output In addition to logging the data to the terminal, data will also be output and appended to a .txt file called `log.txt`.
 
-![Results] : buraya log.txt den bir foto
+![Results] : 
 
 
 
