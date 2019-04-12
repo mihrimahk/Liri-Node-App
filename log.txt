@@ -75,3 +75,45 @@
     Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
     Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
             
+
+    Venue: Atabal
+    Location: Biarritz, 
+    Event Date: April 25, 2019
+            
+
+    Venue: Mediolanum Forum
+    Location: Assago, NC
+    Event Date: December 15, 2019
+            
+
+    Venue: THE COLOSSEUM AT CAESARS PALACE
+    Location: Las Vegas, NV
+    Event Date: June 8, 2019
+            
+
+    Venue: Progresja
+    Location: Warszawa, 
+    Event Date: December 14, 2019
+            
+
+    Artist: Ace of Base
+    Track: The Sign
+    Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f1c5b5b546694c2f9499fcac80f49ff1
+    Album: The Sign (US Album) [Remastered]
+            
+
+    Title: Titanic
+    Released: 1997
+    IMDB Rating: 7.8
+    Rotten Tomatos Rating: 89%
+    Country: USA
+    Language: English, Swedish, Italian
+    Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+    Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+            
+
+    Artist: Backstreet Boys
+    Track: I Want It That Way
+    Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f1c5b5b546694c2f9499fcac80f49ff1
+    Album: The Hits--Chapter One
+            
